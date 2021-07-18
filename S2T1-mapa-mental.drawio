@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T15:57:44.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BekSTvc15i1F6LmpeYa7" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-18T16:00:07.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="7YcMWQq5gThyT4y5A3Bt" version="14.8.6" type="github">
   <diagram id="zjRdbJUHcIFLECnBz2AV" name="Page-1">
     <mxGraphModel dx="791" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,6 +39,24 @@
         </mxCell>
         <mxCell id="qbgrXJLIkIxngC2ZZ1nj-14" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;S2T1-Mapa Mental&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Los delitos informáticos tipificados que se apliquen al cloud computing." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="75" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-15" value="Autor" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-16" value="William Huera" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="520" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-17" value="Institución" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-18" value="UDLA" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="500" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-19" value="Fecha" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="540" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-20" value="18-07-2021" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
