@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T14:56:47.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.6" etag="V77RbsZ9Kl3Lr9vi0V1v" type="github"><diagram id="zjRdbJUHcIFLECnBz2AV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-18T15:52:33.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mvxZpyhr-z5P0RU4FvNP" version="14.8.6" type="github">
+  <diagram id="zjRdbJUHcIFLECnBz2AV" name="Page-1">
+    <mxGraphModel dx="791" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qbgrXJLIkIxngC2ZZ1nj-1" target="qbgrXJLIkIxngC2ZZ1nj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qbgrXJLIkIxngC2ZZ1nj-1" target="qbgrXJLIkIxngC2ZZ1nj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qbgrXJLIkIxngC2ZZ1nj-1" target="qbgrXJLIkIxngC2ZZ1nj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qbgrXJLIkIxngC2ZZ1nj-1" target="qbgrXJLIkIxngC2ZZ1nj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qbgrXJLIkIxngC2ZZ1nj-1" target="qbgrXJLIkIxngC2ZZ1nj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-1" value="Delitos que se encuentran tipificados dentro de la normativa que regula a las tecnologías Cloud computing en Ecuador" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-2" value="Robo, filtración de información, de los usuarios, empresas, ya sea de carácter de seguridad nacional" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="175" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-5" value="divulgación de información de forma fraudulenta" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-6" value="Infracciones informáticas, violentación de claves o sistemas de seguridad&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="175" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-9" value="Obtención de información confidencial, procesamiento y venta de la misma hacia terceros" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qbgrXJLIkIxngC2ZZ1nj-11" value="violación de la confidencialidad y reserva de la información confidencial de las personas o empresas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="55" y="370" width="190" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
